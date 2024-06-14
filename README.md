@@ -1,3 +1,22 @@
+                             /^\/^\
+                             \----|
+                         _---'---~~~~-_
+                          ~~~|~~L~|~~~~
+                             (/_  /~~--
+                           \~ \  /  /~
+                         __~\  ~ /   ~~----,
+                         \    | |       /  \
+                         /|   |/       |    |
+                         | | | o  o     /~   |
+                       _-~_  |        ||  \  /
+                      (// )) | o  o    \\---'
+                      //_- |  |          \
+                     //   |____|\______\__\
+                     ~      |   / |    |
+                             |_ /   \ _|
+                           /~___|  /____\      
+
+
 # Domain Jasoos
 
 **Domain Jasoos** is a specialized tool for probing subdomains and segregating them based on their HTTP status codes. It provides detailed output in JSON format, categorizing subdomains and showing redirection details where applicable.
