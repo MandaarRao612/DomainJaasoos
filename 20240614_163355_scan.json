@@ -1,0 +1,2980 @@
+{
+    "200": [
+        "https://onthego.tatamotors.com",
+        "https://microsegmentation.tatamotors.com",
+        "https://sakshamqa.tatamotors.com",
+        "https://msa.esakha-dev.tatamotors.com",
+        "https://mytm-empapp.tatamotors.com",
+        "https://acetest.tatamotors.com",
+        "https://dealers.inservices.tatamotors.com",
+        "https://preprod-cars.tatamotors.com",
+        "https://uat-brandintelle.tatamotors.com",
+        "https://mytm-app-dev.tatamotors.com",
+        "https://partneronboard-dashboard-uat.tatamotors.com",
+        "https://insightsev.inservices.tatamotors.com",
+        "https://cv.tatamotors.com",
+        "https://evolve.tatamotors.com",
+        "https://pickup.tatamotors.com",
+        "https://services.tatamotors.com",
+        "https://nfateamsdev.tatamotors.com",
+        "https://api-uat-brandintelle.tatamotors.com",
+        "https://nfateamsstag.tatamotors.com",
+        "https://careers.tatamotors.com",
+        "https://joinus.tatamotors.com",
+        "https://busesandvans.tatamotors.com",
+        "https://pvmanu.infoportal.tatamotors.com",
+        "https://servicespecialtools.tatamotors.com",
+        "https://itsmv5qa.tatamotors.com",
+        "https://cars.tatamotors.com",
+        "https://stage-cars.tatamotors.com",
+        "https://litigationmanagement.tatamotors.com",
+        "https://infoportal.tatamotors.com",
+        "https://jirasupclb.inservices.tatamotors.com",
+        "https://evcarsdms.inservices.tatamotors.com",
+        "https://umbs.tatamotors.com",
+        "https://prod-cars.tatamotors.com",
+        "https://cvib-users-auth.tatamotors.com",
+        "https://3deworkshops.azureedge.net",
+        "https://vendor360-internet-alb-600645972.ap-south-1.elb.amazonaws.com",
+        "https://drishtiteamsdev.tatamotors.com",
+        "https://www.magic.tatamotors.com",
+        "https://crmdms.inservices.tatamotors.com",
+        "https://ibcmmecm.tatamotors.com",
+        "https://evcarsdmsqa.inservices.tatamotors.com",
+        "https://jsrwebapps.inservices.tatamotors.com",
+        "https://pinsights.esakha.tatamotors.com",
+        "http://crmdms.global.tatamotors.com",
+        "http://crmdms.global.tatamotors.com",
+        "https://gtrimdev.tatamotors.com",
+        "https://trustfund.tatamotors.com",
+        "https://reports-esakha-preprod-24622889.ap-south-1.elb.amazonaws.com",
+        "https://reports.esakha-preprod.tatamotors.com",
+        "https://cv-digitalleadsvoiceqa.api.tatamotors.com",
+        "https://voiceai-dev-alb-1915243599.ap-south-1.elb.amazonaws.com",
+        "https://drishti.tatamotors.com",
+        "https://mydv.inservices.tatamotors.com",
+        "https://cloud.cv-mktg.tatamotors.com",
+        "https://analysis-brandintelle-alb-1713446707.ap-south-1.elb.amazonaws.com",
+        "https://sharepointapp.tatamotors.com",
+        "https://cvlive.tatamotors.com",
+        "https://kamqa.tatamotors.com",
+        "https://tmksp.tatamotors.com",
+        "https://pvascents.dev-infoportal.tatamotors.com",
+        "https://fbv.esakha-dev.tatamotors.com",
+        "https://tmcrmportal.inservices.tatamotors.com",
+        "https://gms2016.tatamotors.com",
+        "https://fleetinsight-infoportal.tatamotors.com",
+        "https://uat-connect.tatamotors.com",
+        "https://employee.inservices.tatamotors.com",
+        "https://com-prod.tatamotors.com",
+        "https://pdiqa.tatamotors.com",
+        "https://internalservices.pvevconnected.tatamotors.com",
+        "https://referraltestwin.tatamotors.com",
+        "https://nfateams.tatamotors.com",
+        "https://easytoev.tatamotors.com",
+        "https://buytrucknbus.tatamotors.com",
+        "https://cvbucpsc.tatamotors.com",
+        "https://valuations.tataok.tatamotors.com",
+        "https://d2lr2n94r1uto0.cloudfront.net",
+        "https://www.cvchannelconnect.tatamotors.com",
+        "http://www.cvchannelconnect.tatamotors.com",
+        "http://www.cvchannelconnect.tatamotors.com",
+        "https://carsdmscqa.inservices.tatamotors.com",
+        "https://ibcpsc.tatamotors.com",
+        "https://anaplanaidev.tatamotors.com",
+        "https://keyaccounts.tatamotors.com",
+        "https://trportalnew.inservices.tatamotors.com",
+        "https://prod-ev.tatamotors.com",
+        "https://tataiexperience.tatamotors.com",
+        "https://tataiexperience-prod-alb-1002828100.ap-south-1.elb.amazonaws.com",
+        "https://preprod-ev.tatamotors.com",
+        "https://autoexpo.tatamotors.com",
+        "https://tmaws-webserver-prod-alb-1060195912.ap-south-1.elb.amazonaws.com",
+        "https://ace.tatamotors.com",
+        "https://infovizbeta.tatamotors.com",
+        "https://servicespecialtools.azureedge.net",
+        "https://ev.tatamotors.com",
+        "https://brandintelle.tatamotors.com",
+        "https://supplierconnect.tatamotors.com",
+        "https://learningbud.tatamotors.com",
+        "http://cvchannelconnect.tatamotors.com",
+        "https://cvchannelconnect.tatamotors.com",
+        "https://tmawsggsiprodapp-elb-996632316.ap-south-1.elb.amazonaws.com",
+        "http://tmawsggsiprodapp-elb-996632316.ap-south-1.elb.amazonaws.com",
+        "http://cvchannelconnect.tatamotors.com",
+        "http://tmawsggsiprodapp-elb-996632316.ap-south-1.elb.amazonaws.com",
+        "https://pvsubsidiary-web-portal-298763874.ap-south-1.elb.amazonaws.com",
+        "https://pli.esakha-dev.tatamotors.com",
+        "https://evrouteplanner.tatamotors.com",
+        "https://pdi.tatamotors.com",
+        "https://pli-alb-dev-760554017.ap-south-1.elb.amazonaws.com",
+        "https://tatatrucks.tatamotors.com",
+        "http://tmaws-portal-new-ext-alb-637748136.ap-south-1.elb.amazonaws.com",
+        "https://tataokmytruck.tatamotors.com",
+        "https://dealerprofitability.tatamotors.com",
+        "https://sdpqa.tatamotors.com",
+        "http://tmaws-portal-new-ext-alb-637748136.ap-south-1.elb.amazonaws.com",
+        "https://connect-brandintelle.tatamotors.com",
+        "https://neev.tatamotors.com",
+        "https://light-trucks.tatamotors.com",
+        "https://scpqa.tatamotors.com",
+        "https://aggregates.tatamotors.com",
+        "https://amulya.tatamotors.com",
+        "https://com-stage.tatamotors.com",
+        "https://gims2019.tatamotors.com",
+        "https://mycarmychoice.tatamotors.com",
+        "https://bandhan.tatamotors.com",
+        "https://www.tatamotors.com",
+        "https://mytm-mfgapp.tatamotors.com",
+        "https://gms2013.tatamotors.com",
+        "https://sevaportalvendors.tatamotors.com",
+        "https://sharepointapps.tatamotors.com",
+        "https://microsegmentationqa.tatamotors.com",
+        "https://pvleadtarget.tatamotors.com",
+        "https://tmawscmsdev-elb-756299865.ap-south-1.elb.amazonaws.com",
+        "https://crmdmscqa.inservices.tatamotors.com",
+        "https://tataokmytruckadmin.tatamotors.com",
+        "https://kam.tatamotors.com",
+        "https://pvmyleadsadmin.tatamotors.com",
+        "https://mint.inservices.tatamotors.com",
+        "https://intra.tatamotors.com",
+        "https://ed.tatamotors.com",
+        "https://kdkits.tatamotors.com",
+        "https://onthegoqa.tatamotors.com",
+        "https://rewire-rvsf.tatamotors.com",
+        "https://superstrikerbeta.tatamotors.com",
+        "https://tmcrmportalpv.inservices.tatamotors.com",
+        "https://testcv.tatamotors.com",
+        "https://infovizpv.tatamotors.com",
+        "https://neev-mitraapp-prod-alb-1078108678.ap-south-1.elb.amazonaws.com",
+        "https://egypt-uat.tatamotors.com",
+        "https://testbusesandvans.tatamotors.com",
+        "https://tmaws-webserver-dev-alb-457346218.ap-south-1.elb.amazonaws.com",
+        "https://me.tatamotors.com",
+        "https://fleetedge.tatamotors.com"
+    ],
+    "301": [
+        {
+            "url": "http://tatamotors.com",
+            "redirected_url": "https://tatamotors.com/"
+        },
+        {
+            "url": "https://tatamotors.com",
+            "redirected_url": "https://www.tatamotors.com/"
+        },
+        {
+            "url": "http://www.buses.tatamotors.com",
+            "redirected_url": "https://www.buses.tatamotors.com/"
+        },
+        {
+            "url": "http://tatamotors.com",
+            "redirected_url": "https://tatamotors.com/"
+        },
+        {
+            "url": "http://acetest.tatamotors.com",
+            "redirected_url": "https://acetest.tatamotors.com/"
+        },
+        {
+            "url": "http://sakshamqa.tatamotors.com",
+            "redirected_url": "https://sakshamqa.tatamotors.com/"
+        },
+        {
+            "url": "http://www.buses.tatamotors.com",
+            "redirected_url": "https://www.buses.tatamotors.com/"
+        },
+        {
+            "url": "http://dealers.inservices.tatamotors.com",
+            "redirected_url": "https://dealers.inservices.tatamotors.com"
+        },
+        {
+            "url": "http://mytm-empapp.tatamotors.com",
+            "redirected_url": "https://mytm-empapp.tatamotors.com/"
+        },
+        {
+            "url": "http://sakshamqa.tatamotors.com",
+            "redirected_url": "https://sakshamqa.tatamotors.com/"
+        },
+        {
+            "url": "http://view.cv-mktg.tatamotors.com",
+            "redirected_url": "https://view.cv-mktg.tatamotors.com/"
+        },
+        {
+            "url": "http://esakha-dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://mytm-empapp.tatamotors.com",
+            "redirected_url": "https://mytm-empapp.tatamotors.com/"
+        },
+        {
+            "url": "https://esakha-dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://acetest.tatamotors.com",
+            "redirected_url": "https://acetest.tatamotors.com/"
+        },
+        {
+            "url": "http://esakha-dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://mediacentre.tatamotors.com",
+            "redirected_url": "http://www.tatamotors.com/media"
+        },
+        {
+            "url": "http://mediacentre.tatamotors.com",
+            "redirected_url": "http://www.tatamotors.com/media"
+        },
+        {
+            "url": "http://dealers.inservices.tatamotors.com",
+            "redirected_url": "https://dealers.inservices.tatamotors.com"
+        },
+        {
+            "url": "http://view.cv-mktg.tatamotors.com",
+            "redirected_url": "https://view.cv-mktg.tatamotors.com/"
+        },
+        {
+            "url": "http://preprod-cars.tatamotors.com",
+            "redirected_url": "https://preprod-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://preprod-cars.tatamotors.com",
+            "redirected_url": "https://preprod-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://garv.tatamotors.com",
+            "redirected_url": "https://garv.tatamotors.com/"
+        },
+        {
+            "url": "http://garv.tatamotors.com",
+            "redirected_url": "https://garv.tatamotors.com/"
+        },
+        {
+            "url": "http://intratest.tatamotors.com",
+            "redirected_url": "https://intratest.tatamotors.com/"
+        },
+        {
+            "url": "http://inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://infoviz.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://intratest.tatamotors.com",
+            "redirected_url": "https://intratest.tatamotors.com/"
+        },
+        {
+            "url": "http://mytm-app-dev.tatamotors.com",
+            "redirected_url": "https://mytm-app-dev.tatamotors.com/"
+        },
+        {
+            "url": "http://mytm-app-dev.tatamotors.com",
+            "redirected_url": "https://mytm-app-dev.tatamotors.com/"
+        },
+        {
+            "url": "http://cvmanu.infoportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://cvmanu.infoportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://malaysia.countrysites.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://nextgenapps.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://pickup.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com/"
+        },
+        {
+            "url": "http://cv.tatamotors.com",
+            "redirected_url": "https://cv.tatamotors.com/"
+        },
+        {
+            "url": "http://www.xenonxt.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com"
+        },
+        {
+            "url": "http://evolve.tatamotors.com",
+            "redirected_url": "https://evolve.tatamotors.com/"
+        },
+        {
+            "url": "http://cv.tatamotors.com",
+            "redirected_url": "https://cv.tatamotors.com/"
+        },
+        {
+            "url": "http://www.xenonxt.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com"
+        },
+        {
+            "url": "http://cvmanu.infoportal.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://rainbow.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://evolve.tatamotors.com",
+            "redirected_url": "https://evolve.tatamotors.com/"
+        },
+        {
+            "url": "http://pickup.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com/"
+        },
+        {
+            "url": "https://rainbow.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://careers.tatamotors.com",
+            "redirected_url": "https://careers.tatamotors.com/"
+        },
+        {
+            "url": "http://services.tatamotors.com",
+            "redirected_url": "https://services.tatamotors.com/"
+        },
+        {
+            "url": "http://services.tatamotors.com",
+            "redirected_url": "https://services.tatamotors.com/"
+        },
+        {
+            "url": "http://rainbow.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://myconnect.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://myconnect.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://joinus.tatamotors.com",
+            "redirected_url": "https://joinus.tatamotors.com/"
+        },
+        {
+            "url": "http://careers.tatamotors.com",
+            "redirected_url": "https://careers.tatamotors.com/"
+        },
+        {
+            "url": "http://joinus.tatamotors.com",
+            "redirected_url": "https://joinus.tatamotors.com/"
+        },
+        {
+            "url": "http://qa-cars.tatamotors.com",
+            "redirected_url": "https://qa-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://dev-cars.tatamotors.com",
+            "redirected_url": "https://dev-cars.tatamotors.com/"
+        },
+        {
+            "url": "https://www.joinus.tatamotors.com",
+            "redirected_url": "https://joinus.tatamotors.com"
+        },
+        {
+            "url": "http://qa-cars.tatamotors.com",
+            "redirected_url": "https://qa-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://www.joinus.tatamotors.com",
+            "redirected_url": "https://www.joinus.tatamotors.com/"
+        },
+        {
+            "url": "http://www.joinus.tatamotors.com",
+            "redirected_url": "https://www.joinus.tatamotors.com/"
+        },
+        {
+            "url": "http://release-cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://dev-cars.tatamotors.com",
+            "redirected_url": "https://dev-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://c-segment.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "http://c-segment.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "https://release-cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.musicokplease.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://busesandvans.tatamotors.com",
+            "redirected_url": "https://busesandvans.tatamotors.com/"
+        },
+        {
+            "url": "https://www.musicokplease.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://release-cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://busesandvans.tatamotors.com",
+            "redirected_url": "https://busesandvans.tatamotors.com/"
+        },
+        {
+            "url": "http://www.musicokplease.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://testtrucks.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.cv.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.cv.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://deshkesupersaarthi.tatamotors.com",
+            "redirected_url": "https://deshkesupersaarthi.tatamotors.com/"
+        },
+        {
+            "url": "http://perf-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://referral.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "https://perf-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://referral.tatamotors.com",
+            "redirected_url": "https://referral.tatamotors.com/"
+        },
+        {
+            "url": "http://referral.tatamotors.com",
+            "redirected_url": "https://referral.tatamotors.com/"
+        },
+        {
+            "url": "http://perf-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://cars.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com/"
+        },
+        {
+            "url": "http://itsmv5qa.tatamotors.com",
+            "redirected_url": "https://itsmv5qa.tatamotors.com/"
+        },
+        {
+            "url": "http://itsmv5qa.tatamotors.com",
+            "redirected_url": "https://itsmv5qa.tatamotors.com/"
+        },
+        {
+            "url": "http://stage-cars.tatamotors.com",
+            "redirected_url": "https://stage-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://staging.tatamotors.com",
+            "redirected_url": "https://staging.tatamotors.com/"
+        },
+        {
+            "url": "http://cars.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com/"
+        },
+        {
+            "url": "http://litigationmanagement.tatamotors.com",
+            "redirected_url": "https://litigationmanagement.tatamotors.com/"
+        },
+        {
+            "url": "http://stage-cars.tatamotors.com",
+            "redirected_url": "https://stage-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://staging.tatamotors.com",
+            "redirected_url": "https://staging.tatamotors.com/"
+        },
+        {
+            "url": "http://litigationmanagement.tatamotors.com",
+            "redirected_url": "https://litigationmanagement.tatamotors.com/"
+        },
+        {
+            "url": "http://gms2014.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://tatamotorsltd.jobs2web.com",
+            "redirected_url": "https://www.sap.com/products/recruiting-software.html"
+        },
+        {
+            "url": "http://tatamotorsltd.jobs2web.com",
+            "redirected_url": "https://tatamotorsltd.jobs2web.com/"
+        },
+        {
+            "url": "http://tatamotorsltd.jobs2web.com",
+            "redirected_url": "https://tatamotorsltd.jobs2web.com/"
+        },
+        {
+            "url": "https://sit-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://sit-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tmcrmapps.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://up2date-empbb-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-empbb-rewire.tatamotors.com/up2date/"
+        },
+        {
+            "url": "http://up2date-empbb-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-empbb-rewire.tatamotors.com/"
+        },
+        {
+            "url": "http://up2date-empbb-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-empbb-rewire.tatamotors.com/"
+        },
+        {
+            "url": "http://www.magicmantra.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://magna.buses.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://gtme.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://prod-cars.tatamotors.com",
+            "redirected_url": "https://prod-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://prod-cars.tatamotors.com",
+            "redirected_url": "https://prod-cars.tatamotors.com/"
+        },
+        {
+            "url": "http://ivorycoast.countrysites.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://ivorycoast.countrysites.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://www.cars.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com:443/"
+        },
+        {
+            "url": "http://cvib-users-auth.tatamotors.com",
+            "redirected_url": "https://cvib-users-auth.tatamotors.com/"
+        },
+        {
+            "url": "http://www.cars.tatamotors.com",
+            "redirected_url": "https://www.cars.tatamotors.com/"
+        },
+        {
+            "url": "http://www.cars.tatamotors.com",
+            "redirected_url": "https://www.cars.tatamotors.com/"
+        },
+        {
+            "url": "http://cvib-users-auth.tatamotors.com",
+            "redirected_url": "https://cvib-users-auth.tatamotors.com/"
+        },
+        {
+            "url": "http://zambia.countrysites.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://intratest.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://srm.inservices.tatamotors.com",
+            "redirected_url": "https://srm.inservices.tatamotors.com/irj/portal/"
+        },
+        {
+            "url": "http://blogs.tatamotors.com",
+            "redirected_url": "http://www.tatamotors.com/blog/"
+        },
+        {
+            "url": "http://blogs.tatamotors.com",
+            "redirected_url": "http://www.tatamotors.com/blog/"
+        },
+        {
+            "url": "http://analytics.user.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.magic.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com/"
+        },
+        {
+            "url": "http://www.magic.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com/"
+        },
+        {
+            "url": "http://tmlcvpdpdsqa01.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tigorev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://infoviz.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://infoviz.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://tigorev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tigorev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://d1ynfhmn2x2x5g.cloudfront.net",
+            "redirected_url": "https://d1ynfhmn2x2x5g.cloudfront.net/"
+        },
+        {
+            "url": "http://d1ynfhmn2x2x5g.cloudfront.net",
+            "redirected_url": "https://d1ynfhmn2x2x5g.cloudfront.net/"
+        },
+        {
+            "url": "http://gms2015.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://service.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://service.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://mytatamotors.tatamotors.com",
+            "redirected_url": "https://mytatamotors.tatamotors.com/"
+        },
+        {
+            "url": "http://mytatamotors.tatamotors.com",
+            "redirected_url": "https://mytatamotors.tatamotors.com/"
+        },
+        {
+            "url": "http://service.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://customercare.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://insights.inservices.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://spdgtme.tatamotors.com",
+            "redirected_url": "https://spdgtme.tatamotors.com:443/"
+        },
+        {
+            "url": "http://spdgtme.tatamotors.com",
+            "redirected_url": "https://spdgtme.tatamotors.com:443/"
+        },
+        {
+            "url": "http://sbi.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://staging-cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://assist.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://evtest.tatamotors.com",
+            "redirected_url": "https://evtest.tatamotors.com/"
+        },
+        {
+            "url": "http://evtest.tatamotors.com",
+            "redirected_url": "https://evtest.tatamotors.com/"
+        },
+        {
+            "url": "http://portal-1499347965.ap-southeast-1.elb.amazonaws.com",
+            "redirected_url": "http://mahav-cbf.info/ap-southeast-1.elb.amazonaws.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://kcempapp.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://auth.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://ibcrm.dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://nexontestwin.tatamotors.com",
+            "redirected_url": "https://nexontestwin.tatamotors.com/"
+        },
+        {
+            "url": "http://esakha.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://global.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://esakha.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://global.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://esakha.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://boltarena.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://boltarena.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://global.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://gtrimdev.tatamotors.com",
+            "redirected_url": "https://gtrimdev.tatamotors.com/"
+        },
+        {
+            "url": "http://gtrimdev.tatamotors.com",
+            "redirected_url": "https://gtrimdev.tatamotors.com/"
+        },
+        {
+            "url": "http://boltarena.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://xenontest.tatamotors.com",
+            "redirected_url": "https://xenontest.tatamotors.com/"
+        },
+        {
+            "url": "http://challengenext.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://challengenext.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://challengenext.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://nexontestwin.tatamotors.com",
+            "redirected_url": "https://nexontestwin.tatamotors.com/"
+        },
+        {
+            "url": "http://tatamotors.bizom.in",
+            "redirected_url": "https://tatamotors.bizom.in:443/"
+        },
+        {
+            "url": "http://tatamotors.bizom.in",
+            "redirected_url": "https://tatamotors.bizom.in:443/"
+        },
+        {
+            "url": "http://prodalb.bizom.in",
+            "redirected_url": "https://prodalb.bizom.in:443/"
+        },
+        {
+            "url": "http://prodalb.bizom.in",
+            "redirected_url": "https://prodalb.bizom.in:443/"
+        },
+        {
+            "url": "http://dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://dev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://xenontest.tatamotors.com",
+            "redirected_url": "https://xenontest.tatamotors.com/"
+        },
+        {
+            "url": "https://recycle-dtccg-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-dtccg-rewire.tatamotors.com/recycle/"
+        },
+        {
+            "url": "http://recycle-dtccg-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-dtccg-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://recycle-dtccg-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-dtccg-rewire.tatamotors.com//"
+        },
+        {
+            "url": "https://www.ace.tatamotors.com",
+            "redirected_url": "https://ace.tatamotors.com"
+        },
+        {
+            "url": "http://www.ace.tatamotors.com",
+            "redirected_url": "https://www.ace.tatamotors.com/"
+        },
+        {
+            "url": "http://www.ace.tatamotors.com",
+            "redirected_url": "https://www.ace.tatamotors.com/"
+        },
+        {
+            "url": "https://up2date-dtccg-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-dtccg-rewire.tatamotors.com/up2date/"
+        },
+        {
+            "url": "http://up2date-dtccg-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-dtccg-rewire.tatamotors.com/"
+        },
+        {
+            "url": "https://cvtestdrive.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://up2date-dtccg-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-dtccg-rewire.tatamotors.com/"
+        },
+        {
+            "url": "http://cvtestdrive.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://cvtestdrive.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://d2jde91jy0cri8.cloudfront.net",
+            "redirected_url": "https://d2jde91jy0cri8.cloudfront.net/"
+        },
+        {
+            "url": "http://tatamotors.sharepoint.com",
+            "redirected_url": "https://tatamotors.sharepoint.com/"
+        },
+        {
+            "url": "http://acetest.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tlw72d7f39ktk-pf80j9z--g52k1.click-sap.sfmc-marketing.com",
+            "redirected_url": "https://tlw72d7f39ktk-pf80j9z--g52k1.click-sap.sfmc-marketing.com/"
+        },
+        {
+            "url": "http://click.cv-mktg.tatamotors.com",
+            "redirected_url": "https://click.cv-mktg.tatamotors.com/"
+        },
+        {
+            "url": "http://tatamotors.sharepoint.com",
+            "redirected_url": "https://tatamotors.sharepoint.com/"
+        },
+        {
+            "url": "http://gpsserver.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://gpsserver.cvtestdrive.tatamotors.com:443/"
+        },
+        {
+            "url": "http://gpsserver.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://gpsserver.cvtestdrive.tatamotors.com:443/"
+        },
+        {
+            "url": "http://tlw72d7f39ktk-pf80j9z--g52k1.click-sap.sfmc-marketing.com",
+            "redirected_url": "https://tlw72d7f39ktk-pf80j9z--g52k1.click-sap.sfmc-marketing.com/"
+        },
+        {
+            "url": "http://click.cv-mktg.tatamotors.com",
+            "redirected_url": "https://click.cv-mktg.tatamotors.com/"
+        },
+        {
+            "url": "http://gpslistener.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://gpslistener.cvtestdrive.tatamotors.com:443/"
+        },
+        {
+            "url": "http://gpslistener.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://gpslistener.cvtestdrive.tatamotors.com:443/"
+        },
+        {
+            "url": "http://jsrhospital.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://d2jde91jy0cri8.cloudfront.net",
+            "redirected_url": "https://d2jde91jy0cri8.cloudfront.net/"
+        },
+        {
+            "url": "https://www.aceev.tatamotors.com",
+            "redirected_url": "https://aceev.tatamotors.com/"
+        },
+        {
+            "url": "http://www.aceev.tatamotors.com",
+            "redirected_url": "https://www.aceev.tatamotors.com/"
+        },
+        {
+            "url": "http://www.aceev.tatamotors.com",
+            "redirected_url": "https://www.aceev.tatamotors.com/"
+        },
+        {
+            "url": "http://cvlive.tatamotors.com",
+            "redirected_url": "https://cvlive.tatamotors.com/"
+        },
+        {
+            "url": "http://cvlive.tatamotors.com",
+            "redirected_url": "https://cvlive.tatamotors.com/"
+        },
+        {
+            "url": "http://kamqa.tatamotors.com",
+            "redirected_url": "https://kamqa.tatamotors.com:443/"
+        },
+        {
+            "url": "https://magicmantra.tatamotors.com",
+            "redirected_url": "http://www.magic.tatamotors.com/tata-trucks/products/magic-mantra/overview.aspx/"
+        },
+        {
+            "url": "http://magicmantra.tatamotors.com",
+            "redirected_url": "http://www.magic.tatamotors.com/tata-trucks/products/magic-mantra/overview.aspx/"
+        },
+        {
+            "url": "http://magicmantra.tatamotors.com",
+            "redirected_url": "http://www.magic.tatamotors.com/tata-trucks/products/magic-mantra/overview.aspx/"
+        },
+        {
+            "url": "https://magicmantrahindi.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com/hi/passenger-trucks/tata-magic-mantra/overview/tata-magic-mantra-overview.aspx"
+        },
+        {
+            "url": "http://magicmantrahindi.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com/hi/passenger-trucks/tata-magic-mantra/overview/tata-magic-mantra-overview.aspx"
+        },
+        {
+            "url": "http://magicmantrahindi.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com/hi/passenger-trucks/tata-magic-mantra/overview/tata-magic-mantra-overview.aspx"
+        },
+        {
+            "url": "http://gpsserver-cvtestdrive-alb-292636738.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://gpsserver-cvtestdrive-alb-292636738.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://gpsserver-cvtestdrive-alb-292636738.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://gpsserver-cvtestdrive-alb-292636738.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://fueltrial.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://fueltrial.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.altroz.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://fmstest.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://dr3u3i6j0wbwn.cloudfront.net",
+            "redirected_url": "https://dr3u3i6j0wbwn.cloudfront.net/"
+        },
+        {
+            "url": "http://dr3u3i6j0wbwn.cloudfront.net",
+            "redirected_url": "https://dr3u3i6j0wbwn.cloudfront.net/"
+        },
+        {
+            "url": "http://gms2016.tatamotors.com",
+            "redirected_url": "https://gms2016.tatamotors.com/"
+        },
+        {
+            "url": "http://fleetinsight-infoportal.tatamotors.com",
+            "redirected_url": "https://fleetinsight-infoportal.tatamotors.com:443/"
+        },
+        {
+            "url": "http://www.pickup.tatamotors.com",
+            "redirected_url": "https://www.pickup.tatamotors.com/"
+        },
+        {
+            "url": "http://gms2016.tatamotors.com",
+            "redirected_url": "https://gms2016.tatamotors.com/"
+        },
+        {
+            "url": "http://fleetinsight-infoportal.tatamotors.com",
+            "redirected_url": "https://fleetinsight-infoportal.tatamotors.com:443/"
+        },
+        {
+            "url": "http://harrier.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://insidertrading.tatamotors.com",
+            "redirected_url": "https://insidertrading.tatamotors.com:443/"
+        },
+        {
+            "url": "http://insidertrading.tatamotors.com",
+            "redirected_url": "https://insidertrading.tatamotors.com:443/"
+        },
+        {
+            "url": "http://server.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://server.cvtestdrive.tatamotors.com:443/"
+        },
+        {
+            "url": "https://harrier.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://magicexpress.tatamotors.com",
+            "redirected_url": "http://www.magic.tatamotors.com/tata-trucks/products/magic-express/overview.aspx"
+        },
+        {
+            "url": "http://magicexpress.tatamotors.com",
+            "redirected_url": "http://www.magic.tatamotors.com/tata-trucks/products/magic-express/overview.aspx"
+        },
+        {
+            "url": "http://amccustomerportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://saksham.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://saksham.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://magicexpress.tatamotors.com",
+            "redirected_url": "http://www.magic.tatamotors.com/tata-trucks/products/magic-express/overview.aspx"
+        },
+        {
+            "url": "https://amccustomerportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://harrier.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://saksham.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://amccustomerportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.pickup.tatamotors.com",
+            "redirected_url": "https://www.pickup.tatamotors.com/"
+        },
+        {
+            "url": "http://com-prod.tatamotors.com",
+            "redirected_url": "https://com-prod.tatamotors.com/"
+        },
+        {
+            "url": "http://com-prod.tatamotors.com",
+            "redirected_url": "https://com-prod.tatamotors.com/"
+        },
+        {
+            "url": "http://edge.tatamotors.com",
+            "redirected_url": "https://edge.tatamotors.com:443/"
+        },
+        {
+            "url": "http://pdiqa.tatamotors.com",
+            "redirected_url": "https://pdiqa.tatamotors.com/"
+        },
+        {
+            "url": "http://pdiqa.tatamotors.com",
+            "redirected_url": "https://pdiqa.tatamotors.com/"
+        },
+        {
+            "url": "http://referraltestwin.tatamotors.com",
+            "redirected_url": "https://referraltestwin.tatamotors.com/"
+        },
+        {
+            "url": "http://referraltestwin.tatamotors.com",
+            "redirected_url": "https://referraltestwin.tatamotors.com/"
+        },
+        {
+            "url": "http://d1srieo2cv9wxi.cloudfront.net",
+            "redirected_url": "https://d1srieo2cv9wxi.cloudfront.net/"
+        },
+        {
+            "url": "http://up2date-gnvuja-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-gnvuja-rewire.tatamotors.com/"
+        },
+        {
+            "url": "https://up2date-gnvuja-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-gnvuja-rewire.tatamotors.com/up2date/"
+        },
+        {
+            "url": "http://nexo-api-uat-alb-581257495.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://nexo-api-uat-alb-581257495.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://d1srieo2cv9wxi.cloudfront.net",
+            "redirected_url": "https://d1srieo2cv9wxi.cloudfront.net/"
+        },
+        {
+            "url": "http://up2date-gnvuja-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-gnvuja-rewire.tatamotors.com/"
+        },
+        {
+            "url": "http://edge.tatamotors.com",
+            "redirected_url": "https://edge.tatamotors.com:443/"
+        },
+        {
+            "url": "http://nexo-api-prod-alb-1085378717.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://nexo-api-prod-alb-1085378717.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://nexo-api-prod-alb-1085378717.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://nexo-api-prod-alb-1085378717.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "https://pvevconnected.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://sdp.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://uat.server.cvtestdrive.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://pvbulms-alb-1378677438.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "http://mahav-cbf.info/ap-south-1.elb.amazonaws.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://altroz.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://altroz.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://cvp-fleetage-prod-alb-1943323530.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "http://mahav-cbf.info/ap-south-1.elb.amazonaws.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://d1q6i4727pbm2x.cloudfront.net",
+            "redirected_url": "http://mahav-cbf.info/d1q6i4727pbm2x.cloudfront.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://dev-infoportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://dev-infoportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://altroz.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tmksp.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://dev-infoportal.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://release-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://release-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://easytoev.tatamotors.com",
+            "redirected_url": "https://easytoev.tatamotors.com/"
+        },
+        {
+            "url": "http://easytoev.tatamotors.com",
+            "redirected_url": "https://easytoev.tatamotors.com/"
+        },
+        {
+            "url": "http://buytrucknbus.tatamotors.com",
+            "redirected_url": "https://buytrucknbus.tatamotors.com:443/"
+        },
+        {
+            "url": "http://jtp.tatamotors.com",
+            "redirected_url": "https://jtp.tatamotors.com/"
+        },
+        {
+            "url": "https://jtp.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "http://release-ev.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://zest.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://jtp.tatamotors.com",
+            "redirected_url": "https://jtp.tatamotors.com/"
+        },
+        {
+            "url": "https://zest.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://buytrucknbus.tatamotors.com",
+            "redirected_url": "https://buytrucknbus.tatamotors.com:443/"
+        },
+        {
+            "url": "http://zest.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://blog.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://valuations.tataok.tatamotors.com",
+            "redirected_url": "https://valuations.tataok.tatamotors.com/"
+        },
+        {
+            "url": "http://vcteams.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://valuations.tataok.tatamotors.com",
+            "redirected_url": "https://valuations.tataok.tatamotors.com/"
+        },
+        {
+            "url": "http://vcteams.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tassuat.tatamotors.com",
+            "redirected_url": "https://tassuat.tatamotors.com/"
+        },
+        {
+            "url": "http://d2lr2n94r1uto0.cloudfront.net",
+            "redirected_url": "https://d2lr2n94r1uto0.cloudfront.net/"
+        },
+        {
+            "url": "http://d2lr2n94r1uto0.cloudfront.net",
+            "redirected_url": "https://d2lr2n94r1uto0.cloudfront.net/"
+        },
+        {
+            "url": "https://_sip._tcp.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tassuat.tatamotors.com",
+            "redirected_url": "https://tassuat.tatamotors.com/"
+        },
+        {
+            "url": "http://www.tacnet.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://ibcpsc.tatamotors.com",
+            "redirected_url": "https://ibcpsc.tatamotors.com/"
+        },
+        {
+            "url": "https://www.tacnet.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://ibcpsc.tatamotors.com",
+            "redirected_url": "https://ibcpsc.tatamotors.com/"
+        },
+        {
+            "url": "https://recycle-ambsu-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-ambsu-rewire.tatamotors.com/recycle/"
+        },
+        {
+            "url": "http://recycle-ambsu-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-ambsu-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://recycle-ambsu-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-ambsu-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://prod-ev.tatamotors.com",
+            "redirected_url": "https://prod-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://_sip._tcp.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://d2z7wohegmzkf3.cloudfront.net",
+            "redirected_url": "https://d2z7wohegmzkf3.cloudfront.net/"
+        },
+        {
+            "url": "http://d2x0btfim8a5uk.cloudfront.net",
+            "redirected_url": "https://d2x0btfim8a5uk.cloudfront.net/"
+        },
+        {
+            "url": "http://d2z7wohegmzkf3.cloudfront.net",
+            "redirected_url": "https://d2z7wohegmzkf3.cloudfront.net/"
+        },
+        {
+            "url": "http://prod-ev.tatamotors.com",
+            "redirected_url": "https://prod-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://d2x0btfim8a5uk.cloudfront.net",
+            "redirected_url": "https://d2x0btfim8a5uk.cloudfront.net/"
+        },
+        {
+            "url": "http://tataiexperience.tatamotors.com",
+            "redirected_url": "https://tataiexperience.tatamotors.com:443/"
+        },
+        {
+            "url": "http://tataiexperience.tatamotors.com",
+            "redirected_url": "https://tataiexperience.tatamotors.com:443/"
+        },
+        {
+            "url": "http://tataiexperience-prod-alb-1002828100.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://tataiexperience-prod-alb-1002828100.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "https://logistics-ambsu-rewire.tatamotors.com",
+            "redirected_url": "https://logistics-ambsu-rewire.tatamotors.com/recycle/"
+        },
+        {
+            "url": "http://rmk12.jobs2web.com",
+            "redirected_url": "https://rmk12.jobs2web.com/"
+        },
+        {
+            "url": "https://rmk12.jobs2web.com",
+            "redirected_url": "https://www.sap.com/products/recruiting-software.html"
+        },
+        {
+            "url": "http://tataiexperience-prod-alb-1002828100.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://tataiexperience-prod-alb-1002828100.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://rmk12.jobs2web.com",
+            "redirected_url": "https://rmk12.jobs2web.com/"
+        },
+        {
+            "url": "http://preprod-ev.tatamotors.com",
+            "redirected_url": "https://preprod-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://preprod-ev.tatamotors.com",
+            "redirected_url": "https://preprod-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://d2igvw9xbd1fxc.cloudfront.net",
+            "redirected_url": "https://d2igvw9xbd1fxc.cloudfront.net/"
+        },
+        {
+            "url": "https://magiciris.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com"
+        },
+        {
+            "url": "http://d2igvw9xbd1fxc.cloudfront.net",
+            "redirected_url": "https://d2igvw9xbd1fxc.cloudfront.net/"
+        },
+        {
+            "url": "http://magiciris.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com"
+        },
+        {
+            "url": "http://magiciris.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com"
+        },
+        {
+            "url": "http://sip.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://autoexpo.tatamotors.com",
+            "redirected_url": "https://autoexpo.tatamotors.com/"
+        },
+        {
+            "url": "http://autoexpo.tatamotors.com",
+            "redirected_url": "https://autoexpo.tatamotors.com/"
+        },
+        {
+            "url": "https://sip.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://em3702.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://em3702.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://smalltrucks.tatamotors.com",
+            "redirected_url": "http://smalltrucks.tatamotors.com/403?r=2"
+        },
+        {
+            "url": "http://sip.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://smalltrucks.tatamotors.com",
+            "redirected_url": "https://smalltrucks.tatamotors.com/"
+        },
+        {
+            "url": "http://em3702.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://smalltrucks.tatamotors.com",
+            "redirected_url": "https://smalltrucks.tatamotors.com/"
+        },
+        {
+            "url": "http://ace.tatamotors.com",
+            "redirected_url": "https://ace.tatamotors.com/"
+        },
+        {
+            "url": "http://ace.tatamotors.com",
+            "redirected_url": "https://ace.tatamotors.com/"
+        },
+        {
+            "url": "http://www.cvlive.tatamotors.com",
+            "redirected_url": "https://www.cvlive.tatamotors.com/"
+        },
+        {
+            "url": "http://www.cvlive.tatamotors.com",
+            "redirected_url": "https://www.cvlive.tatamotors.com/"
+        },
+        {
+            "url": "https://recycle-gnvuja-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-gnvuja-rewire.tatamotors.com/recycle/"
+        },
+        {
+            "url": "http://recycle-gnvuja-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-gnvuja-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://recycle-gnvuja-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-gnvuja-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://ev.tatamotors.com",
+            "redirected_url": "https://ev.tatamotors.com/"
+        },
+        {
+            "url": "https://srmdev.inservices.tatamotors.com",
+            "redirected_url": "https://srmdev.inservices.tatamotors.com/irj/portal/"
+        },
+        {
+            "url": "https://up2date-jmpldl-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-jmpldl-rewire.tatamotors.com/up2date/"
+        },
+        {
+            "url": "http://ev.tatamotors.com",
+            "redirected_url": "https://ev.tatamotors.com/"
+        },
+        {
+            "url": "http://up2date-jmpldl-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-jmpldl-rewire.tatamotors.com/"
+        },
+        {
+            "url": "http://up2date-jmpldl-rewire.tatamotors.com",
+            "redirected_url": "https://up2date-jmpldl-rewire.tatamotors.com/"
+        },
+        {
+            "url": "http://d2o3671vcw4y1x.cloudfront.net",
+            "redirected_url": "https://d2o3671vcw4y1x.cloudfront.net/"
+        },
+        {
+            "url": "http://d2o3671vcw4y1x.cloudfront.net",
+            "redirected_url": "https://d2o3671vcw4y1x.cloudfront.net/"
+        },
+        {
+            "url": "http://busestest.tatamotors.com",
+            "redirected_url": "https://busestest.tatamotors.com/"
+        },
+        {
+            "url": "http://learningbud.tatamotors.com",
+            "redirected_url": "https://learningbud.tatamotors.com/"
+        },
+        {
+            "url": "http://busestest.tatamotors.com",
+            "redirected_url": "https://busestest.tatamotors.com/"
+        },
+        {
+            "url": "http://learningbud.tatamotors.com",
+            "redirected_url": "https://learningbud.tatamotors.com/"
+        },
+        {
+            "url": "https://empqa.inservices.tatamotors.com",
+            "redirected_url": "https://empqa.inservices.tatamotors.com/irj/portal/"
+        },
+        {
+            "url": "http://mydvweb.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://pli.esakha-dev.tatamotors.com",
+            "redirected_url": "https://pli.esakha-dev.tatamotors.com:443/"
+        },
+        {
+            "url": "http://pli.esakha-dev.tatamotors.com",
+            "redirected_url": "https://pli.esakha-dev.tatamotors.com:443/"
+        },
+        {
+            "url": "http://customersupport.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "http://customersupport.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "http://dealer-locator.cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://evrouteplanner.tatamotors.com",
+            "redirected_url": "https://evrouteplanner.tatamotors.com/"
+        },
+        {
+            "url": "http://tmlbsless.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tmlbsless.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://mfg.inservices.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://evrouteplanner.tatamotors.com",
+            "redirected_url": "https://evrouteplanner.tatamotors.com/"
+        },
+        {
+            "url": "http://insightscvoas.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://pli-alb-dev-760554017.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://pli-alb-dev-760554017.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://pli-alb-dev-760554017.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://pli-alb-dev-760554017.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://tatatrucks.tatamotors.com",
+            "redirected_url": "https://tatatrucks.tatamotors.com/"
+        },
+        {
+            "url": "http://tatatrucks.tatamotors.com",
+            "redirected_url": "https://tatatrucks.tatamotors.com/"
+        },
+        {
+            "url": "http://d1e4icbebaruij.cloudfront.net",
+            "redirected_url": "https://d1e4icbebaruij.cloudfront.net/"
+        },
+        {
+            "url": "http://d1e4icbebaruij.cloudfront.net",
+            "redirected_url": "https://d1e4icbebaruij.cloudfront.net/"
+        },
+        {
+            "url": "http://gtrim.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tataokmytruck.tatamotors.com",
+            "redirected_url": "https://tataokmytruck.tatamotors.com/"
+        },
+        {
+            "url": "http://tataokmytruck.tatamotors.com",
+            "redirected_url": "https://tataokmytruck.tatamotors.com/"
+        },
+        {
+            "url": "http://musicokplease.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://test-dealer-locator.cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://commercial-vehicles.buytrucknbus.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://musicokplease.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://test-dealer-locator.cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://musicokplease.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://test-dealer-locator.cars.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://qa-ev.tatamotors.com",
+            "redirected_url": "https://qa-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://d2xpnrmzaqb5a0.cloudfront.net",
+            "redirected_url": "https://d2xpnrmzaqb5a0.cloudfront.net/"
+        },
+        {
+            "url": "http://d2xpnrmzaqb5a0.cloudfront.net",
+            "redirected_url": "https://d2xpnrmzaqb5a0.cloudfront.net/"
+        },
+        {
+            "url": "http://qa-ev.tatamotors.com",
+            "redirected_url": "https://qa-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://ibprm.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://aggregate.tatamotors.com",
+            "redirected_url": "https://aggregate.tatamotors.com/"
+        },
+        {
+            "url": "http://hr.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://hr.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://aggregate.tatamotors.com",
+            "redirected_url": "https://aggregate.tatamotors.com/"
+        },
+        {
+            "url": "http://aggregates.tatamotors.com",
+            "redirected_url": "https://aggregates.tatamotors.com/"
+        },
+        {
+            "url": "http://neev.tatamotors.com",
+            "redirected_url": "https://neev.tatamotors.com/"
+        },
+        {
+            "url": "http://light-trucks.tatamotors.com",
+            "redirected_url": "https://light-trucks.tatamotors.com/"
+        },
+        {
+            "url": "http://xprest.tatamotors.com",
+            "redirected_url": "https://xprest.tatamotors.com/"
+        },
+        {
+            "url": "http://neev.tatamotors.com",
+            "redirected_url": "https://neev.tatamotors.com/"
+        },
+        {
+            "url": "http://www.tataok.tatamotors.com",
+            "redirected_url": "https://www.tataok.tatamotors.com/"
+        },
+        {
+            "url": "http://light-trucks.tatamotors.com",
+            "redirected_url": "https://light-trucks.tatamotors.com/"
+        },
+        {
+            "url": "http://xprest.tatamotors.com",
+            "redirected_url": "https://xprest.tatamotors.com/"
+        },
+        {
+            "url": "https://srmqa.inservices.tatamotors.com",
+            "redirected_url": "https://srmqa.inservices.tatamotors.com/irj/portal/"
+        },
+        {
+            "url": "http://www.tataok.tatamotors.com",
+            "redirected_url": "https://www.tataok.tatamotors.com/"
+        },
+        {
+            "url": "http://www.yuvapratibha.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.yuvapratibha.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.yuvapratibha.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://www.magiciris.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com"
+        },
+        {
+            "url": "http://www.magiciris.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com"
+        },
+        {
+            "url": "http://amulya.tatamotors.com",
+            "redirected_url": "https://amulya.tatamotors.com/"
+        },
+        {
+            "url": "http://com-stage.tatamotors.com",
+            "redirected_url": "https://com-stage.tatamotors.com/"
+        },
+        {
+            "url": "http://www.magiciris.tatamotors.com",
+            "redirected_url": "https://www.magic.tatamotors.com"
+        },
+        {
+            "url": "http://aggregates.tatamotors.com",
+            "redirected_url": "https://aggregates.tatamotors.com/"
+        },
+        {
+            "url": "http://www.smalltrucks.tatamotors.com",
+            "redirected_url": "https://www.smalltrucks.tatamotors.com/"
+        },
+        {
+            "url": "http://amulya.tatamotors.com",
+            "redirected_url": "https://amulya.tatamotors.com/"
+        },
+        {
+            "url": "http://com-stage.tatamotors.com",
+            "redirected_url": "https://com-stage.tatamotors.com/"
+        },
+        {
+            "url": "http://www.smalltrucks.tatamotors.com",
+            "redirected_url": "https://www.smalltrucks.tatamotors.com/"
+        },
+        {
+            "url": "http://spares.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "http://mahav-cbf.info/cloudflare.net?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://gims2019.tatamotors.com",
+            "redirected_url": "https://gims2019.tatamotors.com/"
+        },
+        {
+            "url": "http://gims2019.tatamotors.com",
+            "redirected_url": "https://gims2019.tatamotors.com/"
+        },
+        {
+            "url": "http://cvibgo2market.tatamotors.com",
+            "redirected_url": "https://cvibgo2market.tatamotors.com/"
+        },
+        {
+            "url": "http://mycarmychoice.tatamotors.com",
+            "redirected_url": "https://mycarmychoice.tatamotors.com:443/"
+        },
+        {
+            "url": "http://mycarmychoice.tatamotors.com",
+            "redirected_url": "https://mycarmychoice.tatamotors.com:443/"
+        },
+        {
+            "url": "http://cvibgo2market.tatamotors.com",
+            "redirected_url": "https://cvibgo2market.tatamotors.com/"
+        },
+        {
+            "url": "http://sso.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://epodmobapi.inservices.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://ibcrm.qa.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.tatamotors.com",
+            "redirected_url": "https://www.tatamotors.com/"
+        },
+        {
+            "url": "http://bandhan.tatamotors.com",
+            "redirected_url": "https://bandhan.tatamotors.com/"
+        },
+        {
+            "url": "http://bandhan.tatamotors.com",
+            "redirected_url": "https://bandhan.tatamotors.com/"
+        },
+        {
+            "url": "http://www.tatamotors.com",
+            "redirected_url": "https://www.tatamotors.com/"
+        },
+        {
+            "url": "https://recycle-jmpldl-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-jmpldl-rewire.tatamotors.com/recycle/"
+        },
+        {
+            "url": "http://recycle-jmpldl-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-jmpldl-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://recycle-jmpldl-rewire.tatamotors.com",
+            "redirected_url": "https://recycle-jmpldl-rewire.tatamotors.com//"
+        },
+        {
+            "url": "http://mytm-mfgapp.tatamotors.com",
+            "redirected_url": "https://mytm-mfgapp.tatamotors.com/"
+        },
+        {
+            "url": "http://mytm-mfgapp.tatamotors.com",
+            "redirected_url": "https://mytm-mfgapp.tatamotors.com/"
+        },
+        {
+            "url": "http://soul.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://gms2013.tatamotors.com",
+            "redirected_url": "https://gms2013.tatamotors.com/"
+        },
+        {
+            "url": "http://gms2013.tatamotors.com",
+            "redirected_url": "https://gms2013.tatamotors.com/"
+        },
+        {
+            "url": "https://sampark.tatamotors.com",
+            "redirected_url": "https://sampark.tatamotors.com/CWFM/Login.aspx"
+        },
+        {
+            "url": "http://mydevice.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://recycle-empbb-rewire.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://recycle-empbb-rewire.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://mydevice.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://signa.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://mydevice.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://pvleadtarget.tatamotors.com",
+            "redirected_url": "https://pvleadtarget.tatamotors.com:443/"
+        },
+        {
+            "url": "http://www.customersupport.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "http://pvleadtarget.tatamotors.com",
+            "redirected_url": "https://pvleadtarget.tatamotors.com:443/"
+        },
+        {
+            "url": "http://www.customersupport.tatamotors.com",
+            "redirected_url": "https://cars.tatamotors.com"
+        },
+        {
+            "url": "http://uat.dse.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://uat.dse.cvtestdrive.tatamotors.com/"
+        },
+        {
+            "url": "http://uat.dse.cvtestdrive.tatamotors.com",
+            "redirected_url": "https://uat.dse.cvtestdrive.tatamotors.com/"
+        },
+        {
+            "url": "http://zestdrives.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://zestdrives.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://dev-ev.tatamotors.com",
+            "redirected_url": "https://dev-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://tataokmytruckadmin.tatamotors.com",
+            "redirected_url": "https://tataokmytruckadmin.tatamotors.com/"
+        },
+        {
+            "url": "http://tataokmytruckadmin.tatamotors.com",
+            "redirected_url": "https://tataokmytruckadmin.tatamotors.com/"
+        },
+        {
+            "url": "http://dev-ev.tatamotors.com",
+            "redirected_url": "https://dev-ev.tatamotors.com/"
+        },
+        {
+            "url": "http://www.tmcv-training.tatamotors.com",
+            "redirected_url": "https://www.tmcv-training.tatamotors.com/"
+        },
+        {
+            "url": "http://cvibfiscallog.tatamotors.com",
+            "redirected_url": "https://cvibfiscallog.tatamotors.com/"
+        },
+        {
+            "url": "http://qa.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.tmcv-training.tatamotors.com",
+            "redirected_url": "https://www.tmcv-training.tatamotors.com/"
+        },
+        {
+            "url": "http://cvibfiscallog.tatamotors.com",
+            "redirected_url": "https://cvibfiscallog.tatamotors.com/"
+        },
+        {
+            "url": "http://pvmyleadsadmin.tatamotors.com",
+            "redirected_url": "https://pvmyleadsadmin.tatamotors.com:443/"
+        },
+        {
+            "url": "http://pvmyleadsadmin.tatamotors.com",
+            "redirected_url": "https://pvmyleadsadmin.tatamotors.com:443/"
+        },
+        {
+            "url": "http://sevaportalvendorsuat.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://intra.tatamotors.com",
+            "redirected_url": "https://intra.tatamotors.com/"
+        },
+        {
+            "url": "http://intra.tatamotors.com",
+            "redirected_url": "https://intra.tatamotors.com/"
+        },
+        {
+            "url": "http://kdkits.tatamotors.com",
+            "redirected_url": "https://kdkits.tatamotors.com/"
+        },
+        {
+            "url": "http://kdkits.tatamotors.com",
+            "redirected_url": "https://kdkits.tatamotors.com/"
+        },
+        {
+            "url": "http://nexon.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://onthegoqa.tatamotors.com",
+            "redirected_url": "https://onthegoqa.tatamotors.com/"
+        },
+        {
+            "url": "http://onthegoqa.tatamotors.com",
+            "redirected_url": "https://onthegoqa.tatamotors.com/"
+        },
+        {
+            "url": "https://www.xenon.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com"
+        },
+        {
+            "url": "http://neevmitra.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://www.xenon.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com"
+        },
+        {
+            "url": "http://www.xenon.tatamotors.com",
+            "redirected_url": "https://pickup.tatamotors.com"
+        },
+        {
+            "url": "http://ipms4.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://rewire-rvsf.tatamotors.com",
+            "redirected_url": "https://rewire-rvsf.tatamotors.com:443/"
+        },
+        {
+            "url": "http://eks-cv-backend-prod-alb-507904174.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://eks-cv-backend-prod-alb-507904174.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "https://ipms4.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://nexonev.tatamotors.com",
+            "redirected_url": "https://ev.tatamotors.com/nexon/ev.html"
+        },
+        {
+            "url": "http://nexonev.tatamotors.com",
+            "redirected_url": "https://nexonev.tatamotors.com/"
+        },
+        {
+            "url": "http://rewire-rvsf.tatamotors.com",
+            "redirected_url": "https://rewire-rvsf.tatamotors.com:443/"
+        },
+        {
+            "url": "http://eks-cv-backend-prod-alb-507904174.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://eks-cv-backend-prod-alb-507904174.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://nexonev.tatamotors.com",
+            "redirected_url": "https://nexonev.tatamotors.com/"
+        },
+        {
+            "url": "http://m.tatamotors.com",
+            "redirected_url": "https://www.tatamotors.com/"
+        },
+        {
+            "url": "http://m.tatamotors.com",
+            "redirected_url": "https://www.tatamotors.com/"
+        },
+        {
+            "url": "http://eguru-dev.home.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://www.pe.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://superstrikerbeta.tatamotors.com",
+            "redirected_url": "https://superstrikerbeta.tatamotors.com/"
+        },
+        {
+            "url": "http://testcv.tatamotors.com",
+            "redirected_url": "https://testcv.tatamotors.com/"
+        },
+        {
+            "url": "http://jsr-mes-api.ipms4.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://gravitas.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://gravitas.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://nexonevtest.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://superstrikerbeta.tatamotors.com",
+            "redirected_url": "https://superstrikerbeta.tatamotors.com/"
+        },
+        {
+            "url": "http://pe.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://neev-mitraapp-prod-alb-1078108678.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://neev-mitraapp-prod-alb-1078108678.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "https://pe.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "https://poi.tatamotors.com",
+            "redirected_url": "https://poi.tatamotors.com/index.html#/login?c=EUgiufQbWkr2nU4eBbtanw%3D%3D"
+        },
+        {
+            "url": "http://testcv.tatamotors.com",
+            "redirected_url": "https://testcv.tatamotors.com/"
+        },
+        {
+            "url": "http://testbusesandvans.tatamotors.com",
+            "redirected_url": "https://testbusesandvans.tatamotors.com/"
+        },
+        {
+            "url": "http://neev-mitraapp-prod-alb-1078108678.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://neev-mitraapp-prod-alb-1078108678.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://pe.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://egypt-uat.tatamotors.com",
+            "redirected_url": "https://egypt-uat.tatamotors.com/"
+        },
+        {
+            "url": "http://egypt-uat.tatamotors.com",
+            "redirected_url": "https://egypt-uat.tatamotors.com/"
+        },
+        {
+            "url": "http://testbusesandvans.tatamotors.com",
+            "redirected_url": "https://testbusesandvans.tatamotors.com/"
+        },
+        {
+            "url": "http://www.pe.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://tmaws-webserver-dev-alb-457346218.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://tmaws-webserver-dev-alb-457346218.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://tmaws-webserver-dev-alb-457346218.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://tmaws-webserver-dev-alb-457346218.ap-south-1.elb.amazonaws.com:443/"
+        },
+        {
+            "url": "http://businessconnect.esakha.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://businessconnect.esakha.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://d2n8tu1928flud.cloudfront.net",
+            "redirected_url": "https://d2n8tu1928flud.cloudfront.net/"
+        },
+        {
+            "url": "http://tmlgdc-prod-lb-1919725644.ap-southeast-1.elb.amazonaws.com",
+            "redirected_url": "https://tmlgdc-prod-lb-1919725644.ap-southeast-1.elb.amazonaws.com/"
+        },
+        {
+            "url": "http://d2n8tu1928flud.cloudfront.net",
+            "redirected_url": "https://d2n8tu1928flud.cloudfront.net/"
+        },
+        {
+            "url": "http://fleetedge.tatamotors.com",
+            "redirected_url": "https://fleetedge.tatamotors.com/"
+        },
+        {
+            "url": "http://me.tatamotors.com",
+            "redirected_url": "https://me.tatamotors.com/"
+        },
+        {
+            "url": "http://tmlgdc-prod-lb-1919725644.ap-southeast-1.elb.amazonaws.com",
+            "redirected_url": "https://tmlgdc-prod-lb-1919725644.ap-southeast-1.elb.amazonaws.com/"
+        },
+        {
+            "url": "http://me.tatamotors.com",
+            "redirected_url": "https://me.tatamotors.com/"
+        },
+        {
+            "url": "http://fleetedge.tatamotors.com",
+            "redirected_url": "https://fleetedge.tatamotors.com/"
+        },
+        {
+            "url": "http://buses.tatamotors.com",
+            "redirected_url": "https://buses.tatamotors.com/"
+        },
+        {
+            "url": "http://acemegaxl.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        },
+        {
+            "url": "http://buses.tatamotors.com",
+            "redirected_url": "https://buses.tatamotors.com/"
+        },
+        {
+            "url": "http://www.customercare-cv.tatamotors.com",
+            "redirected_url": "http://mahav-cbf.info/tatamotors.com?adTagId=5dbe70a0-d198-11ee-9496-0a639443d451\u0026amp;fallbackUrl=https%3A%2F%2F4943999.com"
+        }
+    ],
+    "302": [
+        {
+            "url": "http://eworkshop.tatamotors.com",
+            "redirected_url": "https://eworkshop.tatamotors.com/"
+        },
+        {
+            "url": "http://microsegmentation.tatamotors.com",
+            "redirected_url": "https://microsegmentation.tatamotors.com/"
+        },
+        {
+            "url": "http://microsegmentation.tatamotors.com",
+            "redirected_url": "https://microsegmentation.tatamotors.com/"
+        },
+        {
+            "url": "https://view.cv-mktg.tatamotors.com",
+            "redirected_url": "/Error.aspx"
+        },
+        {
+            "url": "https://garv.tatamotors.com",
+            "redirected_url": "https://garv.tatamotors.com/PageNotFound.aspx?aspxerrorpath=/RegistrationForm.aspx"
+        },
+        {
+            "url": "https://gitlabcentralpv.inservices.tatamotors.com",
+            "redirected_url": "https://gitlabcentralpv.inservices.tatamotors.com/users/sign_in"
+        },
+        {
+            "url": "http://insightsev.inservices.tatamotors.com",
+            "redirected_url": "https://insightsev.inservices.tatamotors.com/"
+        },
+        {
+            "url": "http://insightsev.inservices.tatamotors.com",
+            "redirected_url": "https://insightsev.inservices.tatamotors.com/"
+        },
+        {
+            "url": "https://employeeconnect.tatamotors.com",
+            "redirected_url": "https://employeeconnect.tatamotors.com/index.jsp"
+        },
+        {
+            "url": "http://servicespecialtools.tatamotors.com",
+            "redirected_url": "https://servicespecialtools.tatamotors.com/"
+        },
+        {
+            "url": "http://servicespecialtools.tatamotors.com",
+            "redirected_url": "https://servicespecialtools.tatamotors.com/"
+        },
+        {
+            "url": "https://tgpecatsindia.tatamotors.com",
+            "redirected_url": "https://tgpecatsindia.tatamotors.com/iPromisPrd/cgi/ipr_index.cgi"
+        },
+        {
+            "url": "http://3deworkshops.azureedge.net",
+            "redirected_url": "https://3deworkshops.azureedge.net/"
+        },
+        {
+            "url": "http://3deworkshops.azureedge.net",
+            "redirected_url": "https://3deworkshops.azureedge.net/"
+        },
+        {
+            "url": "https://tdcvqaportal.inservices.tatamotors.com",
+            "redirected_url": "https://tdcvqaportal.inservices.tatamotors.com/index.jsp"
+        },
+        {
+            "url": "https://trportal.inservices.tatamotors.com",
+            "redirected_url": "https://trportalnew.inservices.tatamotors.com"
+        },
+        {
+            "url": "https://mytatamotors.tatamotors.com",
+            "redirected_url": "https://login.microsoftonline.com/a3fb180d-23c4-44c9-a241-c78109202bd3/oauth2/v2.0/authorize?client_id=3133812a-5355-4baf-a478-9a60ba929250\u0026redirect_uri=https%3A%2F%2Fmytatamotors.tatamotors.com%2Fsignin-oidc\u0026response_type=id_token\u0026scope=openid%20profile\u0026response_mode=form_post\u0026nonce=638539593643610819.YjVjYTcxZjYtYjQyYS00ZDk2LWE4ODYtYmE1ZWQ5Zjg0OGNjNDI3M2VlZGQtNWM2ZS00NjliLTk1NTItY2FmOGY5YWQwY2E0\u0026state=CfDJ8Pi5-xiai_lMv0zHnX7wIm1GhMDnbLwBnGEHfEbPpACIZsbu_9yTji4StLIWy2tOiz3G4X1ZHXFmgr8cnTXWK87A_D0pryPFRnRRv07yKRsjLOC3adDct_ApAdmiU_aZs6kIy-PY6TQ8R1LryLL_nFuMTAoYFz7VcFn4WXnyyUNMZXatw4pSA3ulzs46X8AredrXE24Q-hmp36SbJSQGaa--XdPoGZelR1q6CRVZKb87vfE4byLAyOhcRuI_6f97IpLehGPUd5lethK8qM-_mGQd9tyZnC-IR8X4OICSrSqEIZeQFsf538YVTSGN6YfVwQ\u0026x-client-SKU=ID_NET6_0\u0026x-client-ver=6.24.0.0"
+        },
+        {
+            "url": "https://spdgtme.tatamotors.com",
+            "redirected_url": "/users/login"
+        },
+        {
+            "url": "https://gensetrms.tatamotors.com",
+            "redirected_url": "https://gensetrms.tatamotors.com/accounts/login?rd=https://gensetrms.tatamotors.com/"
+        },
+        {
+            "url": "http://gensetrms.tatamotors.com",
+            "redirected_url": "https://gensetrms.tatamotors.com/"
+        },
+        {
+            "url": "http://gensetrms.tatamotors.com",
+            "redirected_url": "https://gensetrms.tatamotors.com/"
+        },
+        {
+            "url": "https://tatamotors.bizom.in",
+            "redirected_url": "/users/login"
+        },
+        {
+            "url": "https://gensetrms-test.tatamotors.com",
+            "redirected_url": "https://gensetrms-test.tatamotors.com/accounts/login?rd=https://gensetrms-test.tatamotors.com/"
+        },
+        {
+            "url": "http://cloud.cv-mktg.tatamotors.com",
+            "redirected_url": "https://cloud.cv-mktg.tatamotors.com/"
+        },
+        {
+            "url": "http://cloud.cv-mktg.tatamotors.com",
+            "redirected_url": "https://cloud.cv-mktg.tatamotors.com/"
+        },
+        {
+            "url": "http://gdcsupportqa.tatamotors.com",
+            "redirected_url": "https://gdcsupportqa.tatamotors.com/"
+        },
+        {
+            "url": "https://gdcsupportqa.tatamotors.com",
+            "redirected_url": "https://gdcsupportqa.tatamotors.com/gdc_qa"
+        },
+        {
+            "url": "http://gdcsupportqa.tatamotors.com",
+            "redirected_url": "https://gdcsupportqa.tatamotors.com/"
+        },
+        {
+            "url": "https://www.cvlive.tatamotors.com",
+            "redirected_url": "http://cvlive.tatamotors.com/"
+        },
+        {
+            "url": "http://servicespecialtools.azureedge.net",
+            "redirected_url": "https://servicespecialtools.azureedge.net/"
+        },
+        {
+            "url": "http://servicespecialtools.azureedge.net",
+            "redirected_url": "https://servicespecialtools.azureedge.net/"
+        },
+        {
+            "url": "https://portal.inservices.tatamotors.com",
+            "redirected_url": "https://portal.inservices.tatamotors.com/index.jsp"
+        },
+        {
+            "url": "https://officemail.tatamotors.com",
+            "redirected_url": "https://officemail.tatamotors.com/owa/"
+        },
+        {
+            "url": "https://officemail.tatamotors.com.cdn.cloudflare.net",
+            "redirected_url": "https://officemail.tatamotors.com.cdn.cloudflare.net/owa/"
+        },
+        {
+            "url": "https://www.tataok.tatamotors.com",
+            "redirected_url": "https://tataok.tatamotors.com/"
+        },
+        {
+            "url": "https://www.smalltrucks.tatamotors.com",
+            "redirected_url": "http://smalltrucks.tatamotors.com/"
+        },
+        {
+            "url": "https://pvemployeeconnect.tatamotors.com",
+            "redirected_url": "https://pvemployeeconnect.tatamotors.com/index.jsp"
+        },
+        {
+            "url": "https://cvibgo2market.tatamotors.com",
+            "redirected_url": "https://cvibgo2market.tatamotors.com/login"
+        },
+        {
+            "url": "https://msoid.tatamotors.com",
+            "redirected_url": "https://www.office.com/login#"
+        },
+        {
+            "url": "http://microsegmentationqa.tatamotors.com",
+            "redirected_url": "https://microsegmentationqa.tatamotors.com/"
+        },
+        {
+            "url": "http://microsegmentationqa.tatamotors.com",
+            "redirected_url": "https://microsegmentationqa.tatamotors.com/"
+        },
+        {
+            "url": "http://tmawscmsdev-elb-756299865.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://tmawscmsdev-elb-756299865.ap-south-1.elb.amazonaws.com/"
+        },
+        {
+            "url": "http://tmawscmsdev-elb-756299865.ap-south-1.elb.amazonaws.com",
+            "redirected_url": "https://tmawscmsdev-elb-756299865.ap-south-1.elb.amazonaws.com/"
+        },
+        {
+            "url": "https://cvibfiscallog.tatamotors.com",
+            "redirected_url": "https://cvibfiscallog.tatamotors.com/admin/login?bk=/"
+        },
+        {
+            "url": "http://infovizpv.tatamotors.com",
+            "redirected_url": "https://infovizpv.tatamotors.com/"
+        },
+        {
+            "url": "http://infovizpv.tatamotors.com",
+            "redirected_url": "https://infovizpv.tatamotors.com/"
+        }
+    ],
+    "303": [
+        {
+            "url": "https://www.tmcv-training.tatamotors.com",
+            "redirected_url": "https://www.tmcv-training.tatamotors.com/login/index.php"
+        }
+    ],
+    "307": [
+        {
+            "url": "https://esanalyticsdev.inservices.tatamotors.com",
+            "redirected_url": "https://tdrbjdep.tmindia.tatamotors.com:8443/"
+        },
+        {
+            "url": "http://tmksp.tatamotors.com",
+            "redirected_url": "https://tmksp.tatamotors.com/"
+        },
+        {
+            "url": "http://tmksp.tatamotors.com",
+            "redirected_url": "https://tmksp.tatamotors.com/"
+        },
+        {
+            "url": "http://sdpqa.tatamotors.com",
+            "redirected_url": "https://sdpqa.tatamotors.com/"
+        },
+        {
+            "url": "http://scpqa.tatamotors.com",
+            "redirected_url": "https://scpqa.tatamotors.com/"
+        },
+        {
+            "url": "http://scpqa.tatamotors.com",
+            "redirected_url": "https://scpqa.tatamotors.com/"
+        }
+    ],
+    "308": [
+        {
+            "url": "http://nfateamsdev.tatamotors.com",
+            "redirected_url": "https://nfateamsdev.tatamotors.com"
+        },
+        {
+            "url": "http://nfateamsstag.tatamotors.com",
+            "redirected_url": "https://nfateamsstag.tatamotors.com"
+        },
+        {
+            "url": "http://nfateamsdev.tatamotors.com",
+            "redirected_url": "https://nfateamsdev.tatamotors.com"
+        },
+        {
+            "url": "http://nfateamsstag.tatamotors.com",
+            "redirected_url": "https://nfateamsstag.tatamotors.com"
+        },
+        {
+            "url": "http://drishtiteamsdev.tatamotors.com",
+            "redirected_url": "https://drishtiteamsdev.tatamotors.com"
+        },
+        {
+            "url": "http://drishtiteamsdev.tatamotors.com",
+            "redirected_url": "https://drishtiteamsdev.tatamotors.com"
+        },
+        {
+            "url": "http://nfateams.tatamotors.com",
+            "redirected_url": "https://nfateams.tatamotors.com"
+        },
+        {
+            "url": "http://nfateams.tatamotors.com",
+            "redirected_url": "https://nfateams.tatamotors.com"
+        },
+        {
+            "url": "http://anaplanaidev.tatamotors.com",
+            "redirected_url": "https://anaplanaidev.tatamotors.com"
+        },
+        {
+            "url": "http://anaplanaidev.tatamotors.com",
+            "redirected_url": "https://anaplanaidev.tatamotors.com"
+        }
+    ],
+    "400": [
+        "https://people.tatamotors.com",
+        "http://people.tatamotors.com",
+        "http://people.tatamotors.com",
+        "https://3306-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com",
+        "http://3306-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com",
+        "http://3306-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com",
+        "https://196515-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com",
+        "http://196515-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com",
+        "http://196515-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com",
+        "http://196515-ipv4v6e.farm.dprodmgd106.sharepointonline.com.akadns.net",
+        "https://196515-ipv4v6e.farm.dprodmgd106.sharepointonline.com.akadns.net",
+        "http://196515-ipv4v6e.farm.dprodmgd106.sharepointonline.com.akadns.net",
+        "http://tlzf5qj4wgsmytf7jsp0tqv7qv9m.image-sap.sfmc-content.com",
+        "http://tlzf5qj4wgsmytf7jsp0tqv7qv9m.image-sap.sfmc-content.com",
+        "http://tlsprovisioning-san-s13-8.edgekey.net",
+        "http://tlsprovisioning-san-s13-8.edgekey.net",
+        "http://e200424.dscx.akamaiedge.net",
+        "http://e200424.dscx.akamaiedge.net",
+        "https://brandintelle-tatamotors-alb-1160394625.ap-south-1.elb.amazonaws.com",
+        "http://a.privatelink.msidentity.com",
+        "https://a.privatelink.msidentity.com",
+        "https://connect-brandintelle-alb-1061017512.ap-south-1.elb.amazonaws.com",
+        "https://prda.aadg.msidentity.com",
+        "http://prda.aadg.msidentity.com",
+        "http://a.privatelink.msidentity.com",
+        "http://prda.aadg.msidentity.com",
+        "http://www.current.a.prd.aadg.akadns.net",
+        "https://www.current.a.prd.aadg.akadns.net",
+        "http://www.current.a.prd.aadg.akadns.net",
+        "http://syd.current.a.prd.aadg.akadns.net",
+        "https://syd.current.a.prd.aadg.akadns.net",
+        "http://syd.current.a.prd.aadg.akadns.net"
+    ],
+    "401": [
+        "https://qa-cars.tatamotors.com",
+        "https://dev-cars.tatamotors.com",
+        "https://staging.tatamotors.com",
+        "https://evtest.tatamotors.com",
+        "https://qa-ev.tatamotors.com",
+        "https://dev-ev.tatamotors.com"
+    ],
+    "403": [
+        "http://middleeast.countrysites.tatamotors.com",
+        "https://middleeast.countrysites.tatamotors.com",
+        "http://middleeast.countrysites.tatamotors.com",
+        "https://www.buses.tatamotors.com",
+        "http://www.me.tatamotors.com",
+        "http://www.me.tatamotors.com",
+        "https://image.cv-mktg.tatamotors.com",
+        "http://image.cv-mktg.tatamotors.com",
+        "http://image.cv-mktg.tatamotors.com",
+        "http://www.release-cars.tatamotors.com",
+        "http://www.release-cars.tatamotors.com",
+        "https://nextgenappsqa.tatamotors.com",
+        "https://bangladesh.pvibcountrysites.tatamotors.com",
+        "http://bangladesh.pvibcountrysites.tatamotors.com",
+        "http://bangladesh.pvibcountrysites.tatamotors.com",
+        "http://uganda.countrysites.tatamotors.com",
+        "http://trportal.inservices.tatamotors.com",
+        "http://trportal.inservices.tatamotors.com",
+        "https://d1ynfhmn2x2x5g.cloudfront.net",
+        "https://mum-countrysite-alb-958671829.ap-south-1.elb.amazonaws.com",
+        "http://mum-countrysite-alb-958671829.ap-south-1.elb.amazonaws.com",
+        "http://mum-countrysite-alb-958671829.ap-south-1.elb.amazonaws.com",
+        "https://ghana.countrysites.tatamotors.com",
+        "http://ghana.countrysites.tatamotors.com",
+        "http://ghana.countrysites.tatamotors.com",
+        "https://vehicle360pv.infoportal.tatamotors.com",
+        "https://tatamotors.sharepoint.com",
+        "https://tlw72d7f39ktk-pf80j9z--g52k1.click-sap.sfmc-marketing.com",
+        "https://click.cv-mktg.tatamotors.com",
+        "http://bhutan.pvibcountrysites.tatamotors.com",
+        "https://bhutan.pvibcountrysites.tatamotors.com",
+        "https://tunisia.countrysites.tatamotors.com",
+        "http://bhutan.pvibcountrysites.tatamotors.com",
+        "http://tunisia.countrysites.tatamotors.com",
+        "http://tunisia.countrysites.tatamotors.com",
+        "https://dr3u3i6j0wbwn.cloudfront.net",
+        "https://vietnam.countrysites.tatamotors.com",
+        "http://vietnam.countrysites.tatamotors.com",
+        "https://d1srieo2cv9wxi.cloudfront.net",
+        "http://www.release-ev.tatamotors.com",
+        "http://www.release-ev.tatamotors.com",
+        "https://senegal.countrysites.tatamotors.com",
+        "http://senegal.countrysites.tatamotors.com",
+        "http://senegal.countrysites.tatamotors.com",
+        "https://nepal.pvibcountrysites.tatamotors.com",
+        "http://nepal.pvibcountrysites.tatamotors.com",
+        "http://nepal.pvibcountrysites.tatamotors.com",
+        "https://d2z7wohegmzkf3.cloudfront.net",
+        "https://d2x0btfim8a5uk.cloudfront.net",
+        "http://logistics-ambsu-rewire.tatamotors.com",
+        "http://logistics-ambsu-rewire.tatamotors.com",
+        "https://d2igvw9xbd1fxc.cloudfront.net",
+        "http://infovizbeta.tatamotors.com",
+        "http://infovizbeta.tatamotors.com",
+        "https://d2o3671vcw4y1x.cloudfront.net",
+        "https://busestest.tatamotors.com",
+        "http://southafrica.countrysites.tatamotors.com",
+        "https://southafrica.countrysites.tatamotors.com",
+        "http://southafrica.countrysites.tatamotors.com",
+        "https://d1e4icbebaruij.cloudfront.net",
+        "https://kenya.countrysites.tatamotors.com",
+        "http://kenya.countrysites.tatamotors.com",
+        "http://kenya.countrysites.tatamotors.com",
+        "https://d2xpnrmzaqb5a0.cloudfront.net",
+        "https://api-brandintelle.tatamotors.com",
+        "https://tanzania.pvibcountrysites.tatamotors.com",
+        "http://tanzania.pvibcountrysites.tatamotors.com",
+        "http://tanzania.pvibcountrysites.tatamotors.com",
+        "http://pvibcountrysites.tatamotors.com",
+        "https://pvibcountrysites.tatamotors.com",
+        "http://pvibcountrysites.tatamotors.com",
+        "https://ecuador.countrysites.tatamotors.com",
+        "http://ecuador.countrysites.tatamotors.com",
+        "http://ecuador.countrysites.tatamotors.com",
+        "http://maldives.countrysites.tatamotors.com",
+        "https://maldives.countrysites.tatamotors.com",
+        "http://maldives.countrysites.tatamotors.com",
+        "http://nigeria.countrysites.tatamotors.com",
+        "https://nigeria.countrysites.tatamotors.com",
+        "http://nigeria.countrysites.tatamotors.com",
+        "https://uat.dse.cvtestdrive.tatamotors.com",
+        "https://api-brandintelle-alb-1031595552.ap-south-1.elb.amazonaws.com",
+        "http://tgpxchange.tatamotors.com",
+        "http://tgpxchange.tatamotors.com",
+        "http://myanmar.countrysites.tatamotors.com",
+        "https://myanmar.countrysites.tatamotors.com",
+        "http://morocco.countrysites.tatamotors.com",
+        "https://morocco.countrysites.tatamotors.com",
+        "https://countrysites.tatamotors.com",
+        "http://morocco.countrysites.tatamotors.com",
+        "https://philippines.countrysites.tatamotors.com",
+        "http://philippines.countrysites.tatamotors.com",
+        "http://philippines.countrysites.tatamotors.com",
+        "https://d2n8tu1928flud.cloudfront.net"
+    ],
+    "404": [
+        "https://tatamotorstreasury.tatamotors.com",
+        "https://myleavesqa.tatamotors.com",
+        "http://myleavesqa.tatamotors.com",
+        "http://myleavesqa.tatamotors.com",
+        "http://outsystemsdev.tatamotors.com",
+        "http://outsystemsdev.tatamotors.com",
+        "https://alertportal.inservices.tatamotors.com",
+        "http://www.service.tatamotors.com",
+        "http://www.service.tatamotors.com",
+        "http://www.boltarena.tatamotors.com",
+        "http://www.boltarena.tatamotors.com",
+        "https://www.challengenext.tatamotors.com",
+        "http://www.challengenext.tatamotors.com",
+        "http://www.challengenext.tatamotors.com",
+        "https://prodalb.bizom.in",
+        "https://cv-digitalleadsqa.api.tatamotors.com",
+        "https://lmsauto-dev-alb-59022909.ap-south-1.elb.amazonaws.com",
+        "http://tl09ynh2h5cp548wgrs9qw707zm4.cp-sap.sfmc-content.com",
+        "https://tl09ynh2h5cp548wgrs9qw707zm4.cp-sap.sfmc-content.com",
+        "http://tl09ynh2h5cp548wgrs9qw707zm4.cp-sap.sfmc-content.com",
+        "http://www.customercare.tatamotors.com",
+        "http://www.customercare.tatamotors.com",
+        "https://a3fb180d-23c4-44c9-a241-c78109202bd3.tenant.runtime.msappproxy.net",
+        "http://a3fb180d-23c4-44c9-a241-c78109202bd3.tenant.runtime.msappproxy.net",
+        "https://cwap-asia2-runtime.routing.msappproxy.net",
+        "http://a3fb180d-23c4-44c9-a241-c78109202bd3.tenant.runtime.msappproxy.net",
+        "http://cwap-asia2-runtime.routing.msappproxy.net",
+        "https://asia.proxy-1.appproxy.msidentity.com",
+        "http://cwap-asia2-runtime.routing.msappproxy.net",
+        "http://asia.proxy-1.appproxy.msidentity.com",
+        "https://www.tm.asia.proxy-1.appproxy.trafficmanager.net",
+        "http://asia.proxy-1.appproxy.msidentity.com",
+        "http://www.tm.asia.proxy-1.appproxy.trafficmanager.net",
+        "http://www.zest.tatamotors.com",
+        "http://www.zest.tatamotors.com",
+        "http://www.tm.asia.proxy-1.appproxy.trafficmanager.net",
+        "http://sdpqa-tatamotors.msappproxy.net",
+        "https://sdpqa-tatamotors.msappproxy.net",
+        "http://sdpqa-tatamotors.msappproxy.net",
+        "http://proxy-appproxy-ejpn-ty1p-1.msappproxy.net",
+        "https://proxy-appproxy-ejpn-ty1p-1.msappproxy.net",
+        "http://proxy-appproxy-ejpn-ty1p-1.msappproxy.net",
+        "http://openai-hrpoc-dev.tatamotors.com",
+        "https://openai-hrpoc-dev.tatamotors.com",
+        "http://openai-hrpoc-dev.tatamotors.com",
+        "https://tatamotorstreasuryuat.tatamotors.com",
+        "http://driverinsurance.tatamotors.com",
+        "http://driverinsurance.tatamotors.com",
+        "http://scpqa-tatamotors.msappproxy.net",
+        "https://scpqa-tatamotors.msappproxy.net",
+        "https://xprest.tatamotors.com",
+        "http://scpqa-tatamotors.msappproxy.net",
+        "http://www.zestdrives.tatamotors.com",
+        "http://www.zestdrives.tatamotors.com",
+        "http://msoid.tatamotors.com",
+        "https://ib-skinapi-dev-elb-p3-1617104332.ap-south-1.elb.amazonaws.com",
+        "https://eks-cv-backend-prod-alb-507904174.ap-south-1.elb.amazonaws.com",
+        "https://dks.tatamotors.com"
+    ],
+    "409": [
+        "http://sakshamqa.tatamotors.com.cdn.cloudflare.net",
+        "http://sakshamqa.tatamotors.com.cdn.cloudflare.net",
+        "http://insightsev.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://insightsev.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://www.joinus.tatamotors.com.cdn.cloudflare.net",
+        "http://www.joinus.tatamotors.com.cdn.cloudflare.net",
+        "http://pvmanu.infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://pvmanu.infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://mytm-app-dev.tatamotors.com.cdn.cloudflare.net",
+        "http://mytm-app-dev.tatamotors.com.cdn.cloudflare.net",
+        "http://tmcrmportalqa.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://tmcrmportalqa.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magicmantra.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magicmantra.tatamotors.com.cdn.cloudflare.net",
+        "http://services.tatamotors.com.cdn.cloudflare.net",
+        "http://services.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magicexpress.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magicexpress.tatamotors.com.cdn.cloudflare.net",
+        "http://testfleetedge.tatamotors.com.cdn.cloudflare.net",
+        "http://testfleetedge.tatamotors.com.cdn.cloudflare.net",
+        "http://dealers.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://dealers.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://cvib-users-auth.tatamotors.com.cdn.cloudflare.net",
+        "http://cvib-users-auth.tatamotors.com.cdn.cloudflare.net",
+        "http://analytics.user.tatamotors.com.cdn.cloudflare.net",
+        "http://analytics.user.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tatatrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tatatrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magic.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magic.tatamotors.com.cdn.cloudflare.net",
+        "http://mytatamotors.tatamotors.com.cdn.cloudflare.net",
+        "http://mytatamotors.tatamotors.com.cdn.cloudflare.net",
+        "http://pinsights.esakha.tatamotors.com.cdn.cloudflare.net",
+        "http://pinsights.esakha.tatamotors.com.cdn.cloudflare.net",
+        "http://nexontestwin.tatamotors.com.cdn.cloudflare.net",
+        "http://nexontestwin.tatamotors.com.cdn.cloudflare.net",
+        "http://evtest.tatamotors.com.cdn.cloudflare.net",
+        "http://evtest.tatamotors.com.cdn.cloudflare.net",
+        "http://staging-cars.tatamotors.com.cdn.cloudflare.net",
+        "http://staging-cars.tatamotors.com.cdn.cloudflare.net",
+        "http://auth.sadhan.tatamotors.com.cdn.cloudflare.net",
+        "http://auth.sadhan.tatamotors.com.cdn.cloudflare.net",
+        "http://infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://sbi.tatamotors.com.cdn.cloudflare.net",
+        "http://sbi.tatamotors.com.cdn.cloudflare.net",
+        "http://xenontest.tatamotors.com.cdn.cloudflare.net",
+        "http://xenontest.tatamotors.com.cdn.cloudflare.net",
+        "http://vehicle360pv.infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://vehicle360pv.infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://www.ace.tatamotors.com.cdn.cloudflare.net",
+        "http://www.ace.tatamotors.com.cdn.cloudflare.net",
+        "http://drishti.tatamotors.com.cdn.cloudflare.net",
+        "http://drishti.tatamotors.com.cdn.cloudflare.net",
+        "http://businessconnectpv-pre-prod.tatamotors.com.cdn.cloudflare.net",
+        "http://businessconnectpv-pre-prod.tatamotors.com.cdn.cloudflare.net",
+        "http://www.light-trucks.tatamotors.com.cdn.cloudflare.net",
+        "http://www.light-trucks.tatamotors.com.cdn.cloudflare.net",
+        "http://xenonxt.tatamotors.com.cdn.cloudflare.net",
+        "http://xenonxt.tatamotors.com.cdn.cloudflare.net",
+        "http://jsrhospital.tatamotors.com.cdn.cloudflare.net",
+        "http://jsrhospital.tatamotors.com.cdn.cloudflare.net",
+        "http://www.aceev.tatamotors.com.cdn.cloudflare.net",
+        "http://www.aceev.tatamotors.com.cdn.cloudflare.net",
+        "http://pvascents.dev-infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://pvascents.dev-infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://tmlcars.tatamotors.com.cdn.cloudflare.net",
+        "http://tmlcars.tatamotors.com.cdn.cloudflare.net",
+        "http://www.pickup.tatamotors.com.cdn.cloudflare.net",
+        "http://www.pickup.tatamotors.com.cdn.cloudflare.net",
+        "http://tmcrmportal.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://vendorbroadcast.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://vendorbroadcast.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://tmcrmportal.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://fmstest.tatamotors.com.cdn.cloudflare.net",
+        "http://fmstest.tatamotors.com.cdn.cloudflare.net",
+        "http://referraltestwin.tatamotors.com.cdn.cloudflare.net",
+        "http://referraltestwin.tatamotors.com.cdn.cloudflare.net",
+        "http://magicmantrahindi.tatamotors.com.cdn.cloudflare.net",
+        "http://magicmantrahindi.tatamotors.com.cdn.cloudflare.net",
+        "http://magicmantra.tatamotors.com.cdn.cloudflare.net",
+        "http://magicmantra.tatamotors.com.cdn.cloudflare.net",
+        "http://cvlive.tatamotors.com.cdn.cloudflare.net",
+        "http://cvlive.tatamotors.com.cdn.cloudflare.net",
+        "http://referraltest.tatamotors.com.cdn.cloudflare.net",
+        "http://referraltest.tatamotors.com.cdn.cloudflare.net",
+        "http://gms2016.tatamotors.com.cdn.cloudflare.net",
+        "http://gms2016.tatamotors.com.cdn.cloudflare.net",
+        "http://magicexpress.tatamotors.com.cdn.cloudflare.net",
+        "http://magicexpress.tatamotors.com.cdn.cloudflare.net",
+        "http://pdiqa.tatamotors.com.cdn.cloudflare.net",
+        "http://pdiqa.tatamotors.com.cdn.cloudflare.net",
+        "http://fleetinsight-infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://fleetinsight-infoportal.tatamotors.com.cdn.cloudflare.net",
+        "http://harriertest.tatamotors.com.cdn.cloudflare.net",
+        "http://harriertest.tatamotors.com.cdn.cloudflare.net",
+        "http://aceev.tatamotors.com.cdn.cloudflare.net",
+        "http://aceev.tatamotors.com.cdn.cloudflare.net",
+        "http://staging.tatamotors.com.cdn.cloudflare.net",
+        "http://staging.tatamotors.com.cdn.cloudflare.net",
+        "http://jtp.tatamotors.com.cdn.cloudflare.net",
+        "http://jtp.tatamotors.com.cdn.cloudflare.net",
+        "http://valuations.tataok.tatamotors.com.cdn.cloudflare.net",
+        "http://valuations.tataok.tatamotors.com.cdn.cloudflare.net",
+        "http://gtme.tatamotors.com.cdn.cloudflare.net",
+        "http://gtme.tatamotors.com.cdn.cloudflare.net",
+        "http://buytrucknbus.tatamotors.com.cdn.cloudflare.net",
+        "http://buytrucknbus.tatamotors.com.cdn.cloudflare.net",
+        "http://carsdmscqa.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://carsdmscqa.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://referral.tatamotors.com.cdn.cloudflare.net",
+        "http://referral.tatamotors.com.cdn.cloudflare.net",
+        "http://pickup.tatamotors.com.cdn.cloudflare.net",
+        "http://pickup.tatamotors.com.cdn.cloudflare.net",
+        "http://evolve.tatamotors.com.cdn.cloudflare.net",
+        "http://evolve.tatamotors.com.cdn.cloudflare.net",
+        "http://smalltrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://smalltrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://www.cvlive.tatamotors.com.cdn.cloudflare.net",
+        "http://www.cvlive.tatamotors.com.cdn.cloudflare.net",
+        "http://autoexpo.tatamotors.com.cdn.cloudflare.net",
+        "http://autoexpo.tatamotors.com.cdn.cloudflare.net",
+        "http://garv.tatamotors.com.cdn.cloudflare.net",
+        "http://garv.tatamotors.com.cdn.cloudflare.net",
+        "http://ace.tatamotors.com.cdn.cloudflare.net",
+        "http://infovizbeta.tatamotors.com.cdn.cloudflare.net",
+        "http://magiciris.tatamotors.com.cdn.cloudflare.net",
+        "http://magiciris.tatamotors.com.cdn.cloudflare.net",
+        "http://ace.tatamotors.com.cdn.cloudflare.net",
+        "http://infovizbeta.tatamotors.com.cdn.cloudflare.net",
+        "http://investors.tatamotors.com.cdn.cloudflare.net",
+        "http://investors.tatamotors.com.cdn.cloudflare.net",
+        "http://supplierconnect.tatamotors.com.cdn.cloudflare.net",
+        "http://supplierconnect.tatamotors.com.cdn.cloudflare.net",
+        "http://mydvweb.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://mydvweb.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://busestest.tatamotors.com.cdn.cloudflare.net",
+        "http://busestest.tatamotors.com.cdn.cloudflare.net",
+        "http://trucks.tatamotors.com.cdn.cloudflare.net",
+        "http://trucks.tatamotors.com.cdn.cloudflare.net",
+        "http://tatatrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://tatatrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://evrouteplanner.tatamotors.com.cdn.cloudflare.net",
+        "http://evrouteplanner.tatamotors.com.cdn.cloudflare.net",
+        "http://www.intra.tatamotors.com.cdn.cloudflare.net",
+        "http://www.intra.tatamotors.com.cdn.cloudflare.net",
+        "http://gms2014.tatamotors.com.cdn.cloudflare.net",
+        "http://gms2014.tatamotors.com.cdn.cloudflare.net",
+        "http://mytatamotorsdev.tatamotors.com.cdn.cloudflare.net",
+        "http://mytatamotorsdev.tatamotors.com.cdn.cloudflare.net",
+        "http://busesandvans.tatamotors.com.cdn.cloudflare.net",
+        "http://busesandvans.tatamotors.com.cdn.cloudflare.net",
+        "http://dealerprofitability.tatamotors.com.cdn.cloudflare.net",
+        "http://dealerprofitability.tatamotors.com.cdn.cloudflare.net",
+        "http://ibprm.tatamotors.com.cdn.cloudflare.net",
+        "http://ibprm.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tataok.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tataok.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magiciris.tatamotors.com.cdn.cloudflare.net",
+        "http://www.magiciris.tatamotors.com.cdn.cloudflare.net",
+        "http://www.smalltrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://www.smalltrucks.tatamotors.com.cdn.cloudflare.net",
+        "http://analytics.pvuser.tatamotors.com.cdn.cloudflare.net",
+        "http://analytics.pvuser.tatamotors.com.cdn.cloudflare.net",
+        "http://cvibgo2market.tatamotors.com.cdn.cloudflare.net",
+        "http://soul.tatamotors.com.cdn.cloudflare.net",
+        "http://cvibgo2market.tatamotors.com.cdn.cloudflare.net",
+        "http://soul.tatamotors.com.cdn.cloudflare.net",
+        "http://light-trucks.tatamotors.com.cdn.cloudflare.net",
+        "http://aggregates.tatamotors.com.cdn.cloudflare.net",
+        "http://light-trucks.tatamotors.com.cdn.cloudflare.net",
+        "http://tataok.tatamotors.com.cdn.cloudflare.net",
+        "http://aggregates.tatamotors.com.cdn.cloudflare.net",
+        "http://tataok.tatamotors.com.cdn.cloudflare.net",
+        "http://smalltruckstest.tatamotors.com.cdn.cloudflare.net",
+        "http://smalltruckstest.tatamotors.com.cdn.cloudflare.net",
+        "http://www.construck.tatamotors.com.cdn.cloudflare.net",
+        "http://www.construck.tatamotors.com.cdn.cloudflare.net",
+        "http://neev.tatamotors.com.cdn.cloudflare.net",
+        "http://neev.tatamotors.com.cdn.cloudflare.net",
+        "http://gims2019.tatamotors.com.cdn.cloudflare.net",
+        "http://gims2019.tatamotors.com.cdn.cloudflare.net",
+        "http://xprest.tatamotors.com.cdn.cloudflare.net",
+        "http://xprest.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tatamotors.com.cdn.cloudflare.net",
+        "http://bandhan.tatamotors.com.cdn.cloudflare.net",
+        "http://gms2013.tatamotors.com.cdn.cloudflare.net",
+        "http://bandhan.tatamotors.com.cdn.cloudflare.net",
+        "http://pfirstglobal.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://pfirstglobal.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://gms2013.tatamotors.com.cdn.cloudflare.net",
+        "http://crmdmscqa.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://crmdmscqa.inservices.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tmcv-training.tatamotors.com.cdn.cloudflare.net",
+        "http://www.tmcv-training.tatamotors.com.cdn.cloudflare.net",
+        "http://pvleadtarget.tatamotors.com.cdn.cloudflare.net",
+        "http://pvleadtarget.tatamotors.com.cdn.cloudflare.net",
+        "http://www.xenon.tatamotors.com.cdn.cloudflare.net",
+        "http://www.xenon.tatamotors.com.cdn.cloudflare.net",
+        "http://businessconnect.esakha.tatamotors.com.cdn.cloudflare.net",
+        "http://businessconnect.esakha.tatamotors.com.cdn.cloudflare.net",
+        "http://cvibfiscallog.tatamotors.com.cdn.cloudflare.net",
+        "http://cvibfiscallog.tatamotors.com.cdn.cloudflare.net",
+        "http://magic.tatamotors.com.cdn.cloudflare.net",
+        "http://magic.tatamotors.com.cdn.cloudflare.net",
+        "http://nexonev.tatamotors.com.cdn.cloudflare.net",
+        "http://nexonev.tatamotors.com.cdn.cloudflare.net",
+        "http://testcv.tatamotors.com.cdn.cloudflare.net",
+        "http://testcv.tatamotors.com.cdn.cloudflare.net",
+        "http://kam.tatamotors.com.cdn.cloudflare.net",
+        "http://tops.tatamotors.com.cdn.cloudflare.net",
+        "http://tops.tatamotors.com.cdn.cloudflare.net",
+        "http://kam.tatamotors.com.cdn.cloudflare.net",
+        "http://lighttruckssta.tatamotors.com.cdn.cloudflare.net",
+        "http://lighttruckssta.tatamotors.com.cdn.cloudflare.net",
+        "http://testbusesandvans.tatamotors.com.cdn.cloudflare.net",
+        "http://testbusesandvans.tatamotors.com.cdn.cloudflare.net",
+        "http://egypt-uat.tatamotors.com.cdn.cloudflare.net",
+        "http://poi.tatamotors.com.cdn.cloudflare.net",
+        "http://egypt-uat.tatamotors.com.cdn.cloudflare.net",
+        "http://poi.tatamotors.com.cdn.cloudflare.net",
+        "http://www.customercare-cv.tatamotors.com.cdn.cloudflare.net",
+        "http://www.customercare-cv.tatamotors.com.cdn.cloudflare.net"
+    ],
+    "410": [
+        "https://tgpxchange.tatamotors.com"
+    ],
+    "500": [
+        "https://crmidm.inservices.tatamotors.com",
+        "https://ipromis-prod-lb-2140078763.ap-south-1.elb.amazonaws.com",
+        "https://prod.magentocloud.map.fastly.net",
+        "http://prod.magentocloud.map.fastly.net",
+        "http://prod.magentocloud.map.fastly.net",
+        "https://tmlgdc-prod-lb-1919725644.ap-southeast-1.elb.amazonaws.com"
+    ],
+    "502": [
+        "https://deshkesupersaarthi.tatamotors.com",
+        "https://outsystemsdev.tatamotors.com",
+        "https://nexo-api-uat-alb-581257495.ap-south-1.elb.amazonaws.com",
+        "https://tassuat.tatamotors.com",
+        "https://aggregate.tatamotors.com"
+    ],
+    "503": [
+        "https://gpsserver.cvtestdrive.tatamotors.com",
+        "https://gpslistener.cvtestdrive.tatamotors.com",
+        "https://gpsserver-cvtestdrive-alb-292636738.ap-south-1.elb.amazonaws.com",
+        "https://insidertrading.tatamotors.com",
+        "https://server.cvtestdrive.tatamotors.com",
+        "https://nexo-api-prod-alb-1085378717.ap-south-1.elb.amazonaws.com",
+        "https://insider-trading-alb-781606760.ap-south-1.elb.amazonaws.com",
+        "http://insider-trading-alb-781606760.ap-south-1.elb.amazonaws.com",
+        "http://insider-trading-alb-781606760.ap-south-1.elb.amazonaws.com",
+        "https://vpcportalqaalb-196949698.ap-south-1.elb.amazonaws.com",
+        "http://vpcportalqaalb-196949698.ap-south-1.elb.amazonaws.com",
+        "http://vpcportalqaalb-196949698.ap-south-1.elb.amazonaws.com",
+        "https://liquidice-internet-uat-333962704.ap-south-1.elb.amazonaws.com",
+        "https://liquidice-internet-prod-1215946492.ap-south-1.elb.amazonaws.com",
+        "https://analysis-brandintelle-alb-2-837328458.ap-south-1.elb.amazonaws.com",
+        "https://rhsso-1595870589.ap-south-1.elb.amazonaws.com"
+    ],
+    "521": [
+        "http://pvmanu.infoportal.tatamotors.com",
+        "http://pvmanu.infoportal.tatamotors.com",
+        "http://tmcrmportal.inservices.tatamotors.com",
+        "http://tmcrmportal.inservices.tatamotors.com",
+        "http://carsdmscqa.inservices.tatamotors.com",
+        "http://carsdmscqa.inservices.tatamotors.com",
+        "http://dealerprofitability.tatamotors.com",
+        "http://dealerprofitability.tatamotors.com",
+        "http://crmdmscqa.inservices.tatamotors.com",
+        "http://crmdmscqa.inservices.tatamotors.com",
+        "http://kam.tatamotors.com",
+        "http://kam.tatamotors.com"
+    ]
+}
